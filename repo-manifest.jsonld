@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-hyper/branchmgr/commit/574dc8dc90382ef3dd8687737fc39c929e9bb641",
       "git:hexsha": "574dc8dc90382ef3dd8687737fc39c929e9bb641",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T13:18:10.083639+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-hyper/branchmgr/commit/8c63325b896cfac0a32b5fd127854e960c29fc96",
