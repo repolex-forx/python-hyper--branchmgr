@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-hyper",
+  "repo": "branchmgr",
+  "versions": [
+    {
+      "commit": "574dc8dc90382ef3dd8687737fc39c929e9bb641",
+      "parsed_at": "2026-10-28T13:15:52.335516+00:00",
+      "filetree": "filetree/574dc8dc90382ef3dd8687737fc39c929e9bb641.nq.gz",
+      "blobs": [
+        "blob/3bf2cbbc0c96546a287fe0ad24b80ee53cc47d9e.nq.gz",
+        "blob/90ee449e0a42c7c255aa8401d9e45dd8dd9e8493.nq.gz",
+        "blob/aa8d17c3d85e5cd4a1c71469eaaaac9f3522f194.nq.gz",
+        "blob/ca8b131e258ea6c811606e94a43187c2839fcfe3.nq.gz",
+        "blob/98a24edf8de39bb2f4963bf4eb0a8750f820f392.nq.gz",
+        "blob/9d19e106e3ce4ffa975e054f77e6d2b8a522c942.nq.gz",
+        "blob/1f356cc57bfa00a3b251402604c54702fb414c96.nq.gz",
+        "blob/649e30d310d8fd3d0e773f74178ff6f4da3e44dd.nq.gz",
+        "blob/843a4250b43fbffb5241078ae0efc641132d2870.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
